@@ -1,1 +1,3 @@
 mynetworks = *
+inet_protocols = ipv4
+default_process_limit = 700
