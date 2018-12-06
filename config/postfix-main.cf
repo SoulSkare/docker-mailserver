@@ -2,3 +2,4 @@ mynetworks = *
 inet_protocols = ipv4
 default_process_limit = 700
 smtpd_client_connection_count_limit = 700
+maximal_queue_lifetime = 15m
